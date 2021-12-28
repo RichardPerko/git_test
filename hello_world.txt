@@ -1,0 +1,3 @@
+Hello World!
+The Odin Project is teaching me so much!
+Why has no college class explained how to utilize git and github before???
